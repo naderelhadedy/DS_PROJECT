@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = C:/Users/nader/DS_PROJECT_DATA_STORE
